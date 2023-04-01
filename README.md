@@ -9,7 +9,23 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=Automation_Test_With_Selenium_PY&theme=radical" />
 </a>    
+
+<a href="https://github.com/t0dida00/Postman_API_Testing">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=Postman_API_Testing&theme=highcontrast" />
+</a>    
+
 <a href="https://github.com/t0dida00/Mobile-shop">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=Mobile-shop&theme=dark" />
+</a>   
+
+<a href="https://github.com/t0dida00/froggy_game">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=froggy_game&theme=dracula" />
+</a>   
+
+<a href="https://github.com/t0dida00/Kotlin">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=Kotlin&theme=synthwave" />
 </a>   
