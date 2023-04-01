@@ -11,6 +11,5 @@
 </a>    
 <a href="https://github.com/t0dida00/Mobile-shop">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=Mobile-shop
-&theme=gruvbox" />
-</a>    
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=Mobile-shop&theme=dark" />
+</a>   
