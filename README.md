@@ -27,7 +27,7 @@
 
 <a href="https://github.com/t0dida00/Covid-19-tracking">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=Covid-19-tracking&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=Covid-19-tracking&theme=onedark" />
 </a>   
 
 
@@ -38,7 +38,7 @@
 
 <a href="https://github.com/t0dida00/to-do-app">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=to-do-app&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=to-do-app&theme=dracula" />
 </a>  
 
 
