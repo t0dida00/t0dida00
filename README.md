@@ -5,6 +5,22 @@
 
 ![Khoa's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=t0dida00&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+<a href="https://github.com/t0dida00/haltian">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=haltian&theme=merko" />
+</a>   
+
+<a href="https://github.com/t0dida00/dev-academy-2023-exercise">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=dev-academy-2023-exercise&theme=dracula" />
+</a>   
+
+<a href="https://github.com/t0dida00/dev-academy-2023-exercise-frontend">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=dev-academy-2023-exercise-frontend&theme=dracula" />
+</a>   
+
+
 <a href="https://github.com/t0dida00/Automation_Test_With_Selenium_PY">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=Automation_Test_With_Selenium_PY&theme=radical" />
@@ -28,12 +44,6 @@
 <a href="https://github.com/t0dida00/Covid-19-tracking">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=Covid-19-tracking&theme=onedark" />
-</a>   
-
-
-<a href="https://github.com/t0dida00/haltian">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=haltian&theme=merko" />
 </a>   
 
 <a href="https://github.com/t0dida00/to-do-app">
