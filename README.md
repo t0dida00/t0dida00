@@ -5,21 +5,20 @@
 
 ![Khoa's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=t0dida00&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/t0dida00/haltian">
+<a href="https://github.com/t0dida00/Indoor-air-monitoring">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=haltian&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=Indoor-air-monitoring&theme=merko" />
 </a>   
 
-<a href="https://github.com/t0dida00/dev-academy-2023-exercise">
+<a href="https://github.com/t0dida00/helsinki-city-bike">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=dev-academy-2023-exercise&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=helsinki-city-bike&theme=onedark" />
 </a>   
 
-<a href="https://github.com/t0dida00/dev-academy-2023-exercise-frontend">
+<a href="https://github.com/t0dida00/eu-population">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=dev-academy-2023-exercise-frontend&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=eu-population&theme=dark" />
 </a>   
-
 
 <a href="https://github.com/t0dida00/Automation_Test_With_Selenium_PY">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -41,10 +40,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=froggy_game&theme=dracula" />
 </a>   
 
-<a href="https://github.com/t0dida00/Covid-19-tracking">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=t0dida00&repo=Covid-19-tracking&theme=onedark" />
-</a>   
+
 
 <a href="https://github.com/t0dida00/to-do-app">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
